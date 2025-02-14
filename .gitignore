@@ -1,0 +1,10 @@
+.PVS-Studio
+.vscode
+build
+
+*.exe
+*.txt
+*.json
+
+!CMakeLists.txt
+!app/data.txt
