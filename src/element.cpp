@@ -15,7 +15,6 @@
 
 #include "header/details.hpp"
 #include "header/customexception.hpp"
-#include "resulthandler.hpp" // new
 
 #include "header/element.hpp"
 
